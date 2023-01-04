@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/hector1234567/typescript-map/issues"
   },
-  "homepage": "https://github.com/hector1234567/typescript-map#readme"
+  "homepage": "https://github.com/hector1234567/typescript-map#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/google.maps": "^3.51.0"
+  }
 }
